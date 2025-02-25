@@ -1,4 +1,4 @@
-package com.traction.ms_notifiche;
+package com.traction.msnotifiche;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
