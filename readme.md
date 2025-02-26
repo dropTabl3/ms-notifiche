@@ -21,10 +21,12 @@
 
 6. H2 in memory database is actually configured to be used at runtime. Configuration can be changed in pom.xml. 
 7. H2 Console can be accessed at Open a web browser and navigate to `http://localhost:8080/h2-console`
-8. On the login page, you'll need to provide the JDBC URL, username, and password. The default values are typically:
-   JDBC URL: jdbc:h2:mem:testdb (for in-memory database)
-   Username: sa
-   Password: (leave empty by default)
+8. On the login page, you'll need to provide the JDBC URL, username, and password.
+>JDBC URL: jdbc:h2:mem:testdb
+
+>Username: sa
+
+>Password: (leave empty by default)
 
 ### Configuration
 
