@@ -1,4 +1,4 @@
-package com.traction.ms_notifiche;
+package com.traction.msnotifiche;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
